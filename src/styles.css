@@ -1,0 +1,16 @@
+html,
+body {
+  font-family: Helvetica;
+  font-size: 1.3rem;
+  background-color: black;
+  color: grey;
+  padding: 70px;
+  display: flex;
+  margin: 0 auto;
+}
+
+button {
+  padding: 15px;
+  font-size: 1.3rem;
+  margin: 0px 10px 10px;
+}
